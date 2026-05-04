@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "tempmail-bravoduck",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "4bee2e49-fc94-44ae-b975-63c5606ca4ce",
+			"database_name": "temp-mail-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
